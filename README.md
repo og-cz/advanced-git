@@ -9,6 +9,7 @@
 - [Git History and Diffs - Good Commit Message?, Log, Grep, Referencing Commits, Show](./05-history-and-diffs/README.md)
 - [Fixing Mistakes - Revert, Reset, Checkout, Clean](./06-fixing-mistakes/README.md)
 - [Rebase and Amend - Interactive Rebase Options, Rebase Multiple Commits As One, Rebase VS Merge](./07-rebase-and-amend/README.md)
+- [Forks And Remote Repos - Git vs Github, Version Control Sytem, Github Workflow, Remote, Origin](./08-forks-and-remote-repos/README.md)
 
 _*This repository serves as my personal storage and practice space for the Frontend Master’s Advanced Git In Depth. All problem sets, exercises, and experiments related to the course will be stored here*_
 
