@@ -16,4 +16,6 @@
 
 _*This repository serves as my personal storage and practice space for the Frontend Master’s Advanced Git In Depth. All problem sets, exercises, and experiments related to the course will be stored here*_
 
-<img src="_MATERIALS/certificate-light.png" alt="certificate">
+### Certificate
+
+<img src="_MATERIALS/certificate-light.png" alt="certificate" width="75%">
